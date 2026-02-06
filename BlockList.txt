@@ -1,2 +1,11 @@
-127.0.0.1 discord.com
-127.0.0.1 discord.com
+||discord.com^
+||discord.gg^
+||discordapp.com^
+||discordapp.net^
+||discordcdn.com^
+||discord.media^
+||discord.gift^
+||discordstatus.com^
+||discord.dev^
+||discord.new^
+||dis.gd^
