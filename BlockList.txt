@@ -9,3 +9,11 @@
 ||discord.dev^
 ||discord.new^
 ||dis.gd^
+||netflix.com^
+||netflix.net^
+||nflxext.com^
+||nflximg.net^
+||nflximg.com^
+||nflxsearch.net^
+||nflxso.net^
+||nflxvideo.net^
